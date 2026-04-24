@@ -40,4 +40,9 @@ class PriceLevel {
         }
         return false
     }
+
+    fun addFirst(order: Order) {
+        queue.add(order)
+        currentVolume += order.quantity.value
+    }
 }
