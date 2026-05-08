@@ -126,9 +126,10 @@ For the detailed version with Big O complexity analysis of every operation, the 
 
 ## Requirements
 
-- JDK 17+
-- Kotlin 1.9+
-- An IDE (IntelliJ recommended) or `kotlinc` from the terminal
+- JDK 21+
+- Kotlin 2.1.20
+- Maven 3.9+
+- An IDE (IntelliJ recommended)
 
 ---
 
